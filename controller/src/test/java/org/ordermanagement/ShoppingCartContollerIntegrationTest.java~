@@ -1,0 +1,4 @@
+package org.ordermanagement;
+
+public class ShoppingCartContollerIntegrationTest {
+}
